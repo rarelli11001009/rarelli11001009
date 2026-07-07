@@ -3,8 +3,8 @@
 ## About Me
 - 🎓 Intern-Trainee
 - 💻 Passionate about technology and software development
-- 🌱 Currently learning and building new skills
-- 🚀 Interested in cloud technologies, programming, and innovation
+- 🌱 Currently working on my project using Microsoft Stack
+- 🚀 Interested in programming and innovation
 
 ## Skills
 - Data Structures and Algoritms
