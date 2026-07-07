@@ -7,14 +7,12 @@
 - 🚀 Interested in cloud technologies, programming, and innovation
 
 ## Skills
-- Programming
+- Data Structures and Algoritms
+- Java 
+- Springboot
 - Problem Solving
-- Microsoft Technologies
+- Mern Stack
 - Version Control (Git & GitHub)
-
-## Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 ⭐ Welcome to my GitHub profile!
