@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Raju Arelli 👋
 
-<!--
-**rarelli11001009/rarelli11001009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Intern-Trainee
+- 💻 Passionate about technology and software development
+- 🌱 Currently learning and building new skills
+- 🚀 Interested in cloud technologies, programming, and innovation
 
-Here are some ideas to get you started:
+## Skills
+- Programming
+- Problem Solving
+- Microsoft Technologies
+- Version Control (Git & GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+⭐ Welcome to my GitHub profile!
